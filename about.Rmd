@@ -5,3 +5,4 @@ title: "About Me"
 - Name: Siti Fatimah Bt Mohd Taha
 - Date of Birth: 29 April 1993
 - Occupation: Student
+- Email: sitifatimah294@gmail.com
